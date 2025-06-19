@@ -26,15 +26,7 @@
 
 ---
 
-### 📌 Pinned Projects
 
-
-
-- [🧠 DSA Practice](https://github.com/Shubham1423s/dsa-practice)
-- [🚀 Java Backend Projects](https://github.com/Shubham1423s/backend-projects)
-- [🌐 Full Stack Web Projects](https://github.com/Shubham1423s/fullstack-projects)
-
----
 
 ### 📈 GitHub Stats
 
